@@ -22,3 +22,5 @@ pipeline1 {
                         echo 'deploying the package'
                 }
                 }
+                }
+                }
