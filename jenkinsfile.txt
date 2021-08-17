@@ -21,3 +21,4 @@ pipeline1 {
                 steps {
                         echo 'deploying the package'
                 }
+                }
